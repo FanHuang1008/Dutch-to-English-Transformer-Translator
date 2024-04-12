@@ -15,6 +15,6 @@ After the model is trained, run the following code for the translation task. The
 python3 translate.py
 ```
 
-References:
-https://www.youtube.com/watch?v=ISNdQcPhsts&ab_channel=UmarJamil
+References:\
+https://www.youtube.com/watch?v=ISNdQcPhsts&ab_channel=UmarJamil\
 https://www.youtube.com/watch?v=bCz4OMemCcA&ab_channel=UmarJamil
